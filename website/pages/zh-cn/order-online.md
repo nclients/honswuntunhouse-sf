@@ -63,14 +63,14 @@ sections:
     bgVideoId: ""
     bgImg: "honswuntunhouse_sf_backgroundImg.webp"
     bgImgAlt: "洪記麵家"
-    bgColor: ""
-    bgOpacity: "" # 0~1
+    bgColor: "#000"
+    bgOpacity: "0.45" # 0~1
     title: 
       - "在線訂餐"
     titleColor: "#ffffff"
     description: 
       - "始於 1972年"
-      - "洪記云吞面馆位于唐人街的黄金地段，距金融区仅几分钟路程。这里一直保留着香港风味的正宗云吞面，不仅深受本地食客的喜爱，还吸引了来自世界各地的面食爱好者。"
+      - "这里一直保留着香港风味的正宗云吞面，不仅深受本地食客的喜爱，还吸引了来自世界各地的面食爱好者。"
     descriptionColor: "#ffffff"
 
     addOrderOnlineBtn: false
