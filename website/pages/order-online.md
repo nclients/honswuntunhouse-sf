@@ -4,9 +4,9 @@ title: "HON’S WUN-TUN HOUSE - Best Food Today"
 favicon: "favicon.ico"
 logo: "logo_en.png"
 primaryColor: "#D70000" # logo color
-secondaryColor: "#000000"
+secondaryColor: "#E7C417"
 primaryColorScheme: "dark" # dark | light
-secondaryColorScheme: "dark"
+secondaryColorScheme: "light"
 dataGlfCuid: ""
 dataGlfRuid: ""
 orderOnlineLink: "" # For multiple restaurants, please leave this blank.
@@ -57,14 +57,14 @@ sections:
 # Hero
   - type: "hero" 
     id: ""
-    height: "90" # Conditionally use only when sectionType is imgBg
-    sectionType: "imgWithText" # video | imgWithText | imgBg
+    height: "65" # Conditionally use only when sectionType is imgBg
+    sectionType: "imgBg" # video | imgWithText | imgBg
     bgVideoType: "" # youtube | vimeo | gjw
     bgVideoId: ""
     bgImg: "honswuntunhouse_sf_backgroundImg.webp"
     bgImgAlt: "hon's wun tun house SF background image"
-    bgColor: ""
-    bgOpacity: "" # 0~1
+    bgColor: "#000"
+    bgOpacity: "0.45" # 0~1
     title: 
       - "Order Online"
     titleColor: "#ffffff"
@@ -77,21 +77,33 @@ sections:
     orderOnlineBtnInsteadText: ""
     addTableReservationBtn: false
     tableReservationBtnInsteadText: ""
-    showOtherBtn: true
-    btn1Text: "" 
-    btn1Href: "" 
-    btn2Text: "See MENU & Order" 
-    btn2Href: "/order-online#contact-us" 
-
+    showOtherBtn: false
+    btn1Text: "Order Online - Kearny St" 
+    btn1Href: "https://onlineorder.bestfood.today/Restaurant/details/MTAwNDA=" 
+    btn2Text: "Order Online - Washington St" 
+    btn2Href: "https://onlineorder.bestfood.today/Restaurant/details/MTAwNDE=" 
     bannerImg: "honswuntunhouse_sf_dumplings.webp"
     imgAlt: "HON’S WUN-TUN HOUSE"
     imgPosition: "imgRight" # imgLeft | imgRight
     bannerMarginTopMobile: 96
     imgRounded: "" # sm | md | lg | xl | 2xl | 3xl | full
-    extraStyleToTheImage: "sm:my-16"
+    extraStyleToTheImage: "sm:my-20"
    
     bottomRounded: "lg" # sm | md | lg | xl | 2xl | 3xl | full
     # bottomInfo: "We offer Takeout"
+
+# # Video
+#   - type: "video"
+#     id: ""
+#     title: 
+#       - "A Corner of Tradition and Flavor"
+#     description: 
+#       - "From the heart of Newark, CA, Crabby Crabby Restaurant is a corner where tradition meets flavor. Every corner of our restaurant is infused with authenticity, from the décor to every bite we serve." 
+#     videoType: "vimeo" # vimeo | gjw | youtube
+#     videoId: 
+#       - "963713403"
+#       - "917321697"
+#     isOnlyDisplayOnMobile: false
 
 # # Video
 #   - type: "video"
@@ -160,7 +172,8 @@ sections:
       - "Store 1: Kearny St"
     titleColor: "#000000"
     description: 
-      - "Opening Hours: Mon-Sat 10:30 AM-7:00 PM"
+      - "Opening Hours: "
+      - "Mon-Sat 10:30 AM-7:00 PM"
     descriptionColor: "#000000"
     # title2: 
     #   - "A Corner of Tradition and Flavor"
@@ -219,7 +232,8 @@ sections:
       - "Store 2 : Washington St"
     titleColor: "#000000"
     description: 
-      - "Opening Hours: Mon-Fri 8:30 AM-8:00 PM, Sat-Sun 9:00 AM-8:30 PM"
+      - "Opening Hours: "
+      - "Mon-Fri 8:30 AM-8:00 PM, Sat-Sun 9:00 AM-8:30 PM"
     descriptionColor: "#000000"
 
     addOrderOnlineBtn: false
@@ -227,7 +241,7 @@ sections:
     addTableReservationBtn: false
     tableReservationBtnInsteadText: ""
     showOtherBtn: true
-    btn1Text: "Order online from Washington St" 
+    btn1Text: "Order online from Washington St Store" 
     btn1Href: "https://onlineorder.bestfood.today/Restaurant/details/MTAwNDE=" 
     btn2Text: "" 
     btn2Href: "" 

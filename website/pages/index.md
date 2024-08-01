@@ -4,9 +4,9 @@ title: "HON’S WUN-TUN HOUSE - Best Food Today"
 favicon: "favicon.ico"
 logo: "logo_en.png"
 primaryColor: "#D70000" # logo color
-secondaryColor: "#000000"
+secondaryColor: "#E7C417"
 primaryColorScheme: "dark" # dark | light
-secondaryColorScheme: "dark"
+secondaryColorScheme: "light"
 dataGlfCuid: ""
 dataGlfRuid: ""
 orderOnlineLink: "" # For multiple restaurants, please leave this blank.
@@ -58,13 +58,13 @@ sections:
   - type: "hero" 
     id: ""
     height: "90" # Conditionally use only when sectionType is imgBg
-    sectionType: "imgWithText" # video | imgWithText | imgBg
+    sectionType: "imgBg" # video | imgWithText | imgBg
     bgVideoType: "" # youtube | vimeo | gjw
     bgVideoId: ""
     bgImg: "honswuntunhouse_sf_backgroundImg.webp"
     bgImgAlt: "hon's wun tun house SF background image"
-    bgColor: ""
-    bgOpacity: "" # 0~1
+    bgColor: "#000"
+    bgOpacity: "0.45" # 0~1
     title: 
       - "HON’S WUN-TUN HOUSE"
     titleColor: "#ffffff"
@@ -78,10 +78,10 @@ sections:
     addTableReservationBtn: false
     tableReservationBtnInsteadText: ""
     showOtherBtn: true
-    btn1Text: "" 
-    btn1Href: "" 
-    btn2Text: "See MENU & Order" 
-    btn2Href: "/order-online" 
+    btn1Text: "Order Online - Kearny St" 
+    btn1Href: "https://onlineorder.bestfood.today/Restaurant/details/MTAwNDA=" 
+    btn2Text: "Order Online - Washington St" 
+    btn2Href: "https://onlineorder.bestfood.today/Restaurant/details/MTAwNDE=" 
     bannerImg: "honswuntunhouse_sf_dumplings.webp"
     imgAlt: "HON’S WUN-TUN HOUSE"
     imgPosition: "imgRight" # imgLeft | imgRight
@@ -121,7 +121,7 @@ sections:
     descriptionColor: "#333333"
     folderPath: "gallery"
     showImgName: true # true | false
-    imgNameColor: "#ffffff"
+    imgNameColor: "#000000"
     menuItemImgRounded: "3xl" # sm | md | lg | xl | 2xl | 3xl | full
 
 

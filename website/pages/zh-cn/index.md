@@ -58,19 +58,19 @@ sections:
   - type: "hero" 
     id: ""
     height: "90" # Conditionally use only when sectionType is imgBg
-    sectionType: "imgWithText" # video | imgWithText | imgBg
+    sectionType: "imgBg" # video | imgWithText | imgBg
     bgVideoType: "" # youtube | vimeo | gjw
     bgVideoId: ""
     bgImg: "honswuntunhouse_sf_backgroundImg.webp"
     bgImgAlt: "洪記麵家"
-    bgColor: ""
-    bgOpacity: "" # 0~1
+    bgColor: "#000"
+    bgOpacity: "0.5" # 0~1
     title: 
       - "洪記麵家"
     titleColor: "#ffffff"
     description: 
       - "始于1972年"
-      - "洪記云吞面馆位于唐人街的黄金地段，距金融区仅几分钟路程。这里一直保留着香港风味的正宗云吞面，不仅深受本地食客的喜爱，还吸引了来自世界各地的面食爱好者。"
+      - "这里一直保留着香港风味的正宗云吞面，不仅深受本地食客的喜爱，还吸引了来自世界各地的面食爱好者。"
     descriptionColor: "#ffffff"
 
     addOrderOnlineBtn: false
@@ -78,10 +78,10 @@ sections:
     addTableReservationBtn: false
     tableReservationBtnInsteadText: ""
     showOtherBtn: true
-    btn1Text: "" 
-    btn1Href: "" 
-    btn2Text: "查看菜單/在線訂餐" 
-    btn2Href: "/zh-cn/order-online" 
+    btn1Text: "在線訂餐 - Kearny St" 
+    btn1Href: "https://onlineorder.bestfood.today/Restaurant/details/MTAwNDA=" 
+    btn2Text: "在線訂餐 - Washington St" 
+    btn2Href: "https://onlineorder.bestfood.today/Restaurant/details/MTAwNDE=" 
 
     bannerImg: "honswuntunhouse_sf_dumplings.webp"
     imgAlt: "洪記麵家"
@@ -122,7 +122,7 @@ sections:
     descriptionColor: "#333333"
     folderPath: "gallery"
     showImgName: true # true | false
-    imgNameColor: "#ffffff"
+    imgNameColor: "#000000"
     menuItemImgRounded: "3xl" # sm | md | lg | xl | 2xl | 3xl | full
 
 
