@@ -226,7 +226,7 @@ sections:
     tableReservationBtnInsteadText: ""
     showOtherBtn: true
     btn1Text: "在線訂餐 - Washington St店" 
-    btn1Href: "https://onlineorder.bestfood.today/Restaurant/details/MTAwNDE=" 
+    btn1Href: "https://www.bestfoodtodayus.com/ordering/?restaurant_uid=b2282be5-7e87-47cd-aa77-07c4c2b4d946" 
     btn2Text: "" 
     btn2Href: "" 
 
@@ -319,7 +319,7 @@ footer:
   paymentMethod: "" #,alipay,applePay,cash,discover,googlePay,jcb,maestro,mastercard,stripe,unionPay,visa,weChatPay,payPal
 
   seo:
-    metaDescription: "洪記麵家Washington St店和Kearny St店在線訂餐頁面。始於1972年，洪記云吞面馆位于唐人街的黄金地段，距金融区仅几分钟路程。这里一直保留着香港风味的正宗云吞面。"
+    metaDescription: "提供洪記麵家Kearny St店和Washington St店在線訂餐。始於1972年，洪記云吞面馆位于唐人街的黄金地段，距金融区仅几分钟路程。这里一直保留着香港风味的正宗云吞面。"
     keywords: "洪記麵家，唐人街中餐廳，香港餐廳，洪記麵家在線訂餐"
     img: "/gallery/Seafood_Whole_Dungeness_Crab.webp"
     thisPageUrl: ""

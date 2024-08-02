@@ -81,7 +81,7 @@ sections:
     btn1Text: "Order Online - Kearny St" 
     btn1Href: "https://onlineorder.bestfood.today/Restaurant/details/MTAwNDA=" 
     btn2Text: "Order Online - Washington St" 
-    btn2Href: "https://onlineorder.bestfood.today/Restaurant/details/MTAwNDE=" 
+    btn2Href: "https://www.bestfoodtodayus.com/ordering/?restaurant_uid=b2282be5-7e87-47cd-aa77-07c4c2b4d946" 
     bannerImg: "honswuntunhouse_sf_dumplings.webp"
     imgAlt: "HON’S WUN-TUN HOUSE"
     imgPosition: "imgRight" # imgLeft | imgRight
@@ -242,7 +242,7 @@ sections:
     tableReservationBtnInsteadText: ""
     showOtherBtn: true
     btn1Text: "Order online from Washington St Store" 
-    btn1Href: "https://onlineorder.bestfood.today/Restaurant/details/MTAwNDE=" 
+    btn1Href: "https://www.bestfoodtodayus.com/ordering/?restaurant_uid=b2282be5-7e87-47cd-aa77-07c4c2b4d946" 
     btn2Text: "" 
     btn2Href: "" 
 
