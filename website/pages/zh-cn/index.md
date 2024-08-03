@@ -69,8 +69,8 @@ sections:
       - "洪記麵家"
     titleColor: "#ffffff"
     description: 
-      - "始于1972年"
-      - "这里一直保留着香港风味的正宗云吞面，不仅深受本地食客的喜爱，还吸引了来自世界各地的面食爱好者。"
+      - "始於1972年"
+      - "這裡一直保留著香港風味的正宗雲吞面，不僅深受本地食客的喜愛，還吸引了來自世界各地的麵食愛好者。"
     descriptionColor: "#ffffff"
 
     addOrderOnlineBtn: false
@@ -118,7 +118,7 @@ sections:
       - "洪記麵家 美食展"
     titleColor: "#000000"
     description: 
-      - "尽享美味的雲吞面和正宗的中国菜"
+      - "享受美味的雲吞麵和正宗的中國菜"
     descriptionColor: "#333333"
     folderPath: "gallery"
     showImgName: true # true | false
@@ -137,10 +137,10 @@ sections:
       - "關於我們"
     titleColor: "#000000"
     description: 
-      - "创立于1972年。"
-      - "近半个世纪以来，洪記云吞面馆一直为旧金山唐人街的面食爱好者们服务。"
-      - "洪記云吞面馆位于唐人街的黄金地段，距金融区仅几分钟路程。这里一直保留着香港风味的正宗云吞面，不仅深受本地食客的喜爱，还吸引了来自世界各地的面食爱好者。"
-      - "未来，洪記云吞面馆将继续为顾客提供最高品质的云吞面及其他美食。"
+      - "創立於1972年。"
+      - "近半個世紀以來，洪記雲吞麵館一直為舊金山唐人街的義大利麵愛好者服務。"
+      - "洪記雲吞麵館位於唐人街的黃金地段，距離金融區僅幾分鐘路程。這裡一直保留著香港風味的正宗雲吞面，不僅深受本地食客的喜愛，還吸引了來自世界各地的麵食愛好者。"
+      - "未來，洪記雲吞麵館將繼續為顧客提供最高品質的雲吞麵及其他美食。"
 
       # - text: "We serve Imperial Soup dishes plus other Asian dishes. Feel free to message us about inquiries! We'll get back to you as soon as we can!"
     descriptionColor: "#000000"

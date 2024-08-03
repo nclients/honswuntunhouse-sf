@@ -70,7 +70,7 @@ sections:
     titleColor: "#ffffff"
     description: 
       - "始於 1972年"
-      - "这里一直保留着香港风味的正宗云吞面，不仅深受本地食客的喜爱，还吸引了来自世界各地的面食爱好者。"
+      - "這裡一直保留著香港風味的正宗雲吞面，不僅深受本地食客的喜愛，還吸引了來自世界各地的麵食愛好者。"
     descriptionColor: "#ffffff"
 
     addOrderOnlineBtn: false
