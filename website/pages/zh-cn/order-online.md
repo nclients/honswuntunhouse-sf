@@ -217,7 +217,7 @@ sections:
       - "洪記麵家 - Washington St店"
     titleColor: "#000000"
     description: 
-      - "營業時間: 週一 ～ 週五 8:30 AM-8:00 PM, 週六/日 9:00 AM-8:30 PM"
+      - "營業時間: 週一 ～ 週五 8:30 AM-8:00 PM, 週六日 9:00 AM-8:30 PM"
     descriptionColor: "#000000"
 
     addOrderOnlineBtn: false
@@ -319,9 +319,9 @@ footer:
   paymentMethod: "" #,alipay,applePay,cash,discover,googlePay,jcb,maestro,mastercard,stripe,unionPay,visa,weChatPay,payPal
 
   seo:
-    metaDescription: "提供洪記麵家Kearny St店和Washington St店在線訂餐。始於1972年，洪記云吞面馆位于唐人街的黄金地段，距金融区仅几分钟路程。这里一直保留着香港风味的正宗云吞面。"
+    metaDescription: "提供洪記麵家Kearny St店和Washington St店在線訂餐。始於1972年，洪記麵家位于唐人街的黄金地段，距金融区仅几分钟路程。这里一直保留着香港风味的正宗云吞面。"
     keywords: "洪記麵家，唐人街中餐廳，香港餐廳，洪記麵家在線訂餐"
-    img: "/gallery/Seafood_Whole_Dungeness_Crab.webp"
+    img: ""
     thisPageUrl: ""
     locale: "zh_CN" # zh_TW | zh_CN
 

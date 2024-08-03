@@ -138,9 +138,9 @@ sections:
     titleColor: "#000000"
     description: 
       - "創立於1972年。"
-      - "近半個世紀以來，洪記雲吞麵館一直為舊金山唐人街的義大利麵愛好者服務。"
-      - "洪記雲吞麵館位於唐人街的黃金地段，距離金融區僅幾分鐘路程。這裡一直保留著香港風味的正宗雲吞面，不僅深受本地食客的喜愛，還吸引了來自世界各地的麵食愛好者。"
-      - "未來，洪記雲吞麵館將繼續為顧客提供最高品質的雲吞麵及其他美食。"
+      - "近半個世紀以來，洪記麵家一直為舊金山唐人街的麵食愛好者服務。"
+      - "洪記麵家位於唐人街的黃金地段，距離金融區僅幾分鐘路程。這裡一直保留著香港風味的正宗雲吞面，不僅深受本地食客的喜愛，還吸引了來自世界各地的麵食愛好者。"
+      - "未來，洪記麵家將繼續為顧客提供最高品質的雲吞麵及其他美食。"
 
       # - text: "We serve Imperial Soup dishes plus other Asian dishes. Feel free to message us about inquiries! We'll get back to you as soon as we can!"
     descriptionColor: "#000000"
